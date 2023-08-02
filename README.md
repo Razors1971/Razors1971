@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Razors1971
+- 👀 I’m interested in (Kali) Linux
+- 🌱 I’m currently learning Java
